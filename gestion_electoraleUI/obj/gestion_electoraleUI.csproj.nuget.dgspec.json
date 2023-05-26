@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cp-21pap\\gestion_electoraleUI\\gestion_electoraleUI\\gestion_electoraleUI.csproj": {}
+    "C:\\cp-21pap\\test\\GestionElectorale\\gestion_electoraleUI\\gestion_electoraleUI.csproj": {}
   },
   "projects": {
-    "C:\\cp-21pap\\gestion_electoraleUI\\gestion_electoraleUI\\gestion_electoraleUI.csproj": {
+    "C:\\cp-21pap\\test\\GestionElectorale\\gestion_electoraleUI\\gestion_electoraleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cp-21pap\\gestion_electoraleUI\\gestion_electoraleUI\\gestion_electoraleUI.csproj",
+        "projectUniqueName": "C:\\cp-21pap\\test\\GestionElectorale\\gestion_electoraleUI\\gestion_electoraleUI.csproj",
         "projectName": "gestion_electoraleUI",
-        "projectPath": "C:\\cp-21pap\\gestion_electoraleUI\\gestion_electoraleUI\\gestion_electoraleUI.csproj",
+        "projectPath": "C:\\cp-21pap\\test\\GestionElectorale\\gestion_electoraleUI\\gestion_electoraleUI.csproj",
         "packagesPath": "C:\\Users\\cp-21pap\\.nuget\\packages\\",
-        "outputPath": "C:\\cp-21pap\\gestion_electoraleUI\\gestion_electoraleUI\\obj\\",
+        "outputPath": "C:\\cp-21pap\\test\\GestionElectorale\\gestion_electoraleUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
