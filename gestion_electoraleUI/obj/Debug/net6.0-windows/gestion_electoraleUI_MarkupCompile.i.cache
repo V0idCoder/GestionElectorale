@@ -4,17 +4,30 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\cp-21pap\test\GestionElectorale\gestion_electoraleUI\obj\Debug\net6.0-windows\
+=======
+C:\keo\GestionElectorale\gestion_electoraleUI\obj\Debug\net6.0-windows\
+>>>>>>> 7803049fb551ce8d2aee41e683fd582980c4a9ec
 gestion_electoraleUI
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+<<<<<<< HEAD
 C:\cp-21pap\test\GestionElectorale\gestion_electoraleUI\App.xaml
+=======
+C:\keo\GestionElectorale\gestion_electoraleUI\App.xaml
+>>>>>>> 7803049fb551ce8d2aee41e683fd582980c4a9ec
 11407045341
 
-51622386535
+<<<<<<< HEAD
+7-1750682699
 1941709816142
+=======
+51622386535
+194-1617825143
+>>>>>>> 687f0e4ec0779cf068ce8afdfd6749629fe5b71a
 MainWindow.xaml;
 
-False
+True
 

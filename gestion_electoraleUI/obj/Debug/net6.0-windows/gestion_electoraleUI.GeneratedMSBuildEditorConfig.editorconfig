@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gestion_electoraleUI
+<<<<<<< HEAD
 build_property.ProjectDir = C:\cp-21pap\test\GestionElectorale\gestion_electoraleUI\
+=======
+build_property.ProjectDir = C:\keo\GestionElectorale\gestion_electoraleUI\
+>>>>>>> 7803049fb551ce8d2aee41e683fd582980c4a9ec
