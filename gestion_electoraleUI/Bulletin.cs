@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace gestion_electoraleUI
 {
-    public class Commune
+    public class Bulletin
     {
-        public int communeId { get; set; }
-        public  string nom { get; set; }
-        public int npa { get; set; }
+        public int bulletinId { get; set; }
         public int numero { get; set; }
-        public string canton { get; set; }
+        
+        //Héritage liste id ? -->
     }
 }
