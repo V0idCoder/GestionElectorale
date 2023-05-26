@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jkCAQk/r2f0wGrOT61PNepreKAyfMTsB95AJHms3LbD6tqY6Gm2yxW9cYtkbxkBq6hoRBSVKzKzsYb6OFyfgrA==",
+  "dgSpecHash": "wA7QCHUmMyL4KRjdfXUriL2eCQHXIp4p4ltcnTI4ete+3qybUR/fEFNIvWQvPPD95Da3qkT0XPa/xtWUoWOU1w==",
   "success": true,
-  "projectFilePath": "C:\\cp-21pap\\gestion_electoraleUI\\gestion_electoraleUI\\gestion_electoraleUI.csproj",
+  "projectFilePath": "C:\\ega\\GestionElectorale\\gestion_electoraleUI\\gestion_electoraleUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

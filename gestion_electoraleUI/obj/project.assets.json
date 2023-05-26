@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cp-21pap\\.nuget\\packages\\": {},
+    "C:\\Users\\cp-21ega\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cp-21pap\\gestion_electoraleUI\\gestion_electoraleUI\\gestion_electoraleUI.csproj",
+      "projectUniqueName": "C:\\ega\\GestionElectorale\\gestion_electoraleUI\\gestion_electoraleUI.csproj",
       "projectName": "gestion_electoraleUI",
-      "projectPath": "C:\\cp-21pap\\gestion_electoraleUI\\gestion_electoraleUI\\gestion_electoraleUI.csproj",
-      "packagesPath": "C:\\Users\\cp-21pap\\.nuget\\packages\\",
-      "outputPath": "C:\\cp-21pap\\gestion_electoraleUI\\gestion_electoraleUI\\obj\\",
+      "projectPath": "C:\\ega\\GestionElectorale\\gestion_electoraleUI\\gestion_electoraleUI.csproj",
+      "packagesPath": "C:\\Users\\cp-21ega\\.nuget\\packages\\",
+      "outputPath": "C:\\ega\\GestionElectorale\\gestion_electoraleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\cp-21pap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cp-21ega\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
