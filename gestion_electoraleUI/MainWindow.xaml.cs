@@ -19,6 +19,8 @@ namespace gestion_electoraleUI
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     /// Test
+    /// Test 2
+    /// 
     public partial class MainWindow : Window
     {
         public MainWindow()
